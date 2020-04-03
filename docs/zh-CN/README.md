@@ -12,7 +12,7 @@ One Chain CKB 是 BlockABC 团队为解决钱包开发中兼容 Nervos CKB 链�
 
 ## 为什么需要它？
 
-### 简单地构建基于 Cell 模型地交易
+### 简单地构建基于 Cell 模型的交易
 
 通过 @onechain/ckb 只需要知道地址和转账金额就可以构建 1 对 n，n 对 n 交易:
 
